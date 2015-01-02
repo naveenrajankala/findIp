@@ -1,11 +1,11 @@
 {
   "name": "findip",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Find local ip and out line Ip and current location",
   "main": "index.js",
   "preferGlobal": "true",
   "bin": {
-      "findip": "./bin/findip"
+    "findip": "./bin/findip"
   },
   "scripts": {
     "test": "mocha"
