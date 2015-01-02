@@ -1,17 +1,17 @@
-# findIp
+# findip
 
 one simple tool to find ip and location
 
 
 ### Installation
 ````
-$ [sudo] npm install findIp -g
+$ [sudo] npm install findip -g
 ````
 
 ### Usage
-Just run `findIp` , you will get the data
+Just run `findip` , you will get the data
 ````
-$ findIp
+$ findip
 ````
 
 ### Contributing
