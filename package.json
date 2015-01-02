@@ -1,0 +1,30 @@
+{
+  "name": "findIp",
+  "version": "0.0.1",
+  "description": "Find local ip and out line Ip and current location",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yunheli/findIp.git"
+  },
+  "keywords": [
+    "ip",
+    "location",
+    "find"
+  ],
+  "author": "Will",
+  "license": "https://github.com/yunheli/findIp/new/master?filename=LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/yunheli/findIp/issues"
+  },
+  "homepage": "https://github.com/yunheli/findIp",
+  "dependencies": {
+    "request": "^2.51.0",
+    "cheerio": "^0.18.0",
+    "iconv-lite": "^0.4.5",
+    "cli-table": "^0.3.1"
+  }
+}
