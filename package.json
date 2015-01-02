@@ -1,6 +1,6 @@
 {
   "name": "findip",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Find local ip and out line Ip and current location",
   "main": "index.js",
   "preferGlobal": "true",
