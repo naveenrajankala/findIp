@@ -1,5 +1,5 @@
 {
-  "name": "findIp",
+  "name": "findip",
   "version": "0.0.1",
   "description": "Find local ip and out line Ip and current location",
   "main": "index.js",
